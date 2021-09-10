@@ -1,0 +1,85 @@
+@import url('https://fonts.googleapis.com/css2?family=Patrick+Hand&display=swap');
+* {
+  margin: 0;
+  box-sizing: border-box;
+}
+
+.main{
+  display: flex;
+  justify-content: center;
+}
+
+.background {
+  background-image: url(./assets/forest.jpg);
+  background-position: bottom;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100vh;
+  width: 100%;
+  position: fixed;
+  z-index: -2;
+  filter: blur(8px);
+  -webkit-filter: blur(2px);
+}
+
+.layout {
+  background-color: rgba(0, 0, 0, 0.5);
+  height: 100vh;
+  max-width: 550px;
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  font-family: 'Patrick Hand', serif;
+  position: fixed;
+  z-index: -1;
+}
+
+.historia {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 30px;
+  color: white;
+}
+
+.opciones {
+  color: white;
+}
+
+.opcion {
+  display: flex;
+  gap: 15px;
+  margin-bottom: 10px;
+}
+
+.historial {
+  color: white;
+  margin-top: 60px;
+}
+
+.botones {
+  box-shadow: inset 0px 1px 0px 0px #ffffff;
+  background: linear-gradient(to bottom, #f9f9f9 5%, #e9e9e9 100%);
+  background-color: #f9f9f9;
+  border-radius: 6px;
+  border: 1px solid #dcdcdc;
+  display: inline-block;
+  cursor: pointer;
+  color: #000000;
+  font-family: Arial;
+  font-size: 15px;
+  font-weight: bold;
+  padding: 6px 24px;
+  text-decoration: none;
+  text-shadow: 0px 1px 0px #ffffff;
+}
+.botones:hover {
+  background: linear-gradient(to bottom, #e9e9e9 5%, #f9f9f9 100%);
+  background-color: #e9e9e9;
+}
+.botones:active {
+  position: relative;
+  top: 1px;
+}
