@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/tu-propia-aventura/static/css/main.34f2a332.chunk.css",
+    "main.js": "/tu-propia-aventura/static/js/main.f200010b.chunk.js",
+    "main.js.map": "/tu-propia-aventura/static/js/main.f200010b.chunk.js.map",
+    "runtime-main.js": "/tu-propia-aventura/static/js/runtime-main.3397ba8e.js",
+    "runtime-main.js.map": "/tu-propia-aventura/static/js/runtime-main.3397ba8e.js.map",
+    "static/js/2.dd594298.chunk.js": "/tu-propia-aventura/static/js/2.dd594298.chunk.js",
+    "static/js/2.dd594298.chunk.js.map": "/tu-propia-aventura/static/js/2.dd594298.chunk.js.map",
+    "static/js/3.2701df54.chunk.js": "/tu-propia-aventura/static/js/3.2701df54.chunk.js",
+    "static/js/3.2701df54.chunk.js.map": "/tu-propia-aventura/static/js/3.2701df54.chunk.js.map",
+    "index.html": "/tu-propia-aventura/index.html",
+    "static/css/main.34f2a332.chunk.css.map": "/tu-propia-aventura/static/css/main.34f2a332.chunk.css.map",
+    "static/js/2.dd594298.chunk.js.LICENSE.txt": "/tu-propia-aventura/static/js/2.dd594298.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/tu-propia-aventura/static/media/forest.f871c0e3.jpg",
+    "static/media/logo.6ce24c58.svg": "/tu-propia-aventura/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3397ba8e.js",
+    "static/js/2.dd594298.chunk.js",
+    "static/css/main.34f2a332.chunk.css",
+    "static/js/main.f200010b.chunk.js"
+  ]
+}
